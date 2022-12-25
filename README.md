@@ -1,5 +1,6 @@
 
 # Remove Advertisements from the CurseForge desktop application;
+## Not very effective, doesn't *entirely* work. It just helps a little.
 
 Unpack CurseForges `app.asar`.
 
